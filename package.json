@@ -1,0 +1,15 @@
+{
+  "name": "icfetcher-react",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/useFetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "icfetcher": "^1.0.1",
+    "react": "^18.2.0"
+  }
+}
